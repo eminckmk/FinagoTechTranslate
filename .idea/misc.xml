@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/drawable-v24/button_shape2.xml" value="0.1485" />
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/drawable-v24/button_shape3.xml" value="0.135" />
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/drawable-v24/translate_input.xml" value="0.135" />
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/drawable/filter_spinner_dropdown_bg.xml" value="0.1365" />
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/drawable/filter_spinner_dropdown_bg2.xml" value="0.1425" />
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/drawable/ic_launcher_background.xml" value="0.217" />
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/drawable/translate_output.xml" value="0.135" />
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/layout/activity_homepage.xml" value="0.264" />
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Emin/AndroidStudioProjects/FinagoTechTranslate/app/src/main/res/menu/menu_country.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

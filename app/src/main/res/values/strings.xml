@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FinagoTechTranslate</string>
+    <string name="label_input_text">Text To Be Translated</string>
+    <string name="translate">Translate</string>
+
+</resources>
